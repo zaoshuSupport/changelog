@@ -20,6 +20,14 @@
 
 [了解更多](https://zaoshu.gitbooks.io/helpcenter/content/zao-shu-quan-xin-de-zhu-ce-liu-cheng.html)
 
+#### 发票
+
+现在，造数可以为您开具增值税专用发票或增值税普通发票。
+
+累计充值金额达500元可以申请开具发票。
+
+[了解更多](https://zaoshu.gitbooks.io/helpcenter/content/chong-zhi-ke-yi-kai-fa-piao-ma-ff1f.html)
+
 ## 错误修正
 
 修复了控制面板的若干问题
@@ -27,6 +35,4 @@
 修复了编辑爬取造成深度爬取规则被覆盖的问题
 
 修复了深度爬取链接不合法的问题
-
-
 
